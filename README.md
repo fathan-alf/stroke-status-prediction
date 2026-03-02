@@ -155,8 +155,8 @@ stroke-status-prediction/
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@fathan-alf](https://github.com/fathan-alf)
+- LinkedIn: [Fathan Alfariel Adhyaksa](https://www.linkedin.com/in/fathan-alfariel)
 
 ---
 
