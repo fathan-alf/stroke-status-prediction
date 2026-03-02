@@ -135,7 +135,7 @@ The dataset is highly imbalanced (~5% stroke-positive). To address this:
 
 4. **Open and run the notebook**
    ```bash
-   jupyter notebook Prediksi_Status_Stroke.ipynb
+   jupyter notebook Stroke_Status_Prediction.ipynb
    ```
 
 ---
@@ -145,7 +145,7 @@ The dataset is highly imbalanced (~5% stroke-positive). To address this:
 ```
 stroke-status-prediction/
 │
-├── Prediksi_Status_Stroke.ipynb   # Main notebook
+├── Stroke_Status_Prediction.ipynb   # Main notebook
 ├── healthcare-dataset-stroke-data.csv  # Dataset (download from Kaggle)
 └── README.md                      # Project documentation
 ```
@@ -154,6 +154,6 @@ stroke-status-prediction/
 
 ## 👤 Author
 
-**Your Name**
+**Fathan Alfariel Adhyaksa**
 - GitHub: [@fathan-alf](https://github.com/fathan-alf)
-- LinkedIn: [Fathan Alfariel Adhyaksa](https://www.linkedin.com/in/fathan-alfariel)
+- LinkedIn: [fathan-alfariel](https://www.linkedin.com/in/fathan-alfariel)
