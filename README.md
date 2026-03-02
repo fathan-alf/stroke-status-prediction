@@ -157,9 +157,3 @@ stroke-status-prediction/
 **Your Name**
 - GitHub: [@fathan-alf](https://github.com/fathan-alf)
 - LinkedIn: [Fathan Alfariel Adhyaksa](https://www.linkedin.com/in/fathan-alfariel)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
