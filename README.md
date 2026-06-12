@@ -122,7 +122,7 @@ The dataset is highly imbalanced (~5% stroke-positive). To address this:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/stroke-status-prediction.git
+   git clone https://github.com/fathan-alf/stroke-status-prediction.git
    cd stroke-status-prediction
    ```
 
